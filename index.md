@@ -4,7 +4,6 @@ author_profile: true
 ---
 
 ## 🎓 Education
-
 - **Bachelor of Science in Mathematics and Computer Science (Applied Mathematics)** 
 - *Kenyatta University, Nairobi*
 
