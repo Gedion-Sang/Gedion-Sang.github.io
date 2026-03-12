@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Change Management and Documentation Specialist
 twitter_username: Gedion_Sang
 github_username: Gedion-Sang
-minimal_mistakes_skin: teal
+minimal_mistakes_skin: tea-green
 search: true
 
 # Build settings
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Gedion Kibet Sang"
   avatar : "/assets/images/IMG_2094.jpg (1).jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Business Analyst | Change Management and Documentation Specialist | Tech Enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
