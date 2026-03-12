@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Gedion Kibet Sang"
   avatar : "assets/images/IMG_5408k.jpg.jpeg"
-  bio    : "Business Analyst\n" "Change Management and Documentation Specialist\n" "Tech Enthusiast\n"
+  bio    : "Business Analyst, Change Management and Documentation Specialist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
