@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Change Management and Documentation Specialist
 twitter_username: Gedion_Sang
 github_username: Gedion-Sang
-minimal_mistakes_skin: tea-green
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
